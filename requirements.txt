@@ -1,0 +1,11 @@
+# Core Deep Learning Framework
+tensorflow>=2.15.0
+
+# Web Application Framework
+streamlit>=1.30.0
+
+# Scientific Computing & Data Structures
+numpy>=1.24.0
+
+# HDF5 Model File Manipulation
+h5py>=3.10.0
